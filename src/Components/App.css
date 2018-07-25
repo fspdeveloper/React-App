@@ -1,0 +1,62 @@
+.app {
+ background-color: rgba(31, 30, 30, 0.952);
+ width: 100%;
+ height: auto;
+ margin: 0 auto;
+ text-align: center;
+ padding: 35px
+}
+
+.app h1 {
+    color: #61dafb;
+    font-size: 4em;
+}
+
+.app .btn-primary:focus {
+     box-shadow: 0 0 0 0.2rem rgba(5, 95, 215, 0.275);
+}
+
+.app p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #f1f1f1
+    
+}
+.app p strong {
+    color: #acd109;
+    font-size: 22px;
+}
+
+.app .mb-title {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 36px;
+    font-weight: bold;
+    color: #c9a60d;
+}
+
+.app .msg-text {
+    color: #61dafb;
+    text-transform: capitalize;
+}
+
+.app span {
+    color: #61dafb;
+}
+
+
+.app b{
+    font-size: 24px;
+}
+
+.app .msg {
+    color:#d1ff05
+}
+
+.app .btn-lg {
+    padding: 0.6rem 2rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+
